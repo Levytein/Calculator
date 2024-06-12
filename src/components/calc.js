@@ -92,7 +92,7 @@ const Calculator = () => {
           />
           <button
             onClick={handleClear}
-            className="ml-2 p-4 bg-red-600 hover:bg-red-700 text-white rounded text-3xl" 
+            className="ml-2 p-4 px-6 bg-red-600 hover:bg-red-700 text-white rounded text-3xl" 
             id="clear"
           >
             C
