@@ -23,6 +23,23 @@ A simple calculator app built using React and Math.js for precise mathematical c
 
 ## Check it out here
 https://calculator-rouge-theta.vercel.app
+
+## Installation
+### Clone the repository:
+
+```
+git clone https://github.com/Levytein/Calculator.git
+cd Calculator
+```
+
+### Install dependencies (Node.js and npm should be installed):
+```
+npm install
+```
+### Start the development server:
+```
+npm run dev
+```
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
